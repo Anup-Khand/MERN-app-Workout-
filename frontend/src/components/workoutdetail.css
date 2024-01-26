@@ -1,0 +1,43 @@
+/* workoutdetail.css */
+.details{
+   width: 100%;
+  display: flex;
+   border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.btn{
+  display: flex;
+  flex-direction: column;
+}
+.detaildelete{
+  cursor: pointer;
+}
+.detailupdate{
+   cursor: pointer;
+  margin-top: 3rem;
+}
+.detail1 {
+      width: 100%;
+}
+
+.detailstitle {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.detailsload,
+.detailsreps {
+  margin: 0;
+}
+
+.details strong {
+  font-weight: bold;
+}
+
+.detailcreatedat {
+  font-style: italic;
+  color: #555;
+}
+
+/* You can customize styles based on your design preferences */
